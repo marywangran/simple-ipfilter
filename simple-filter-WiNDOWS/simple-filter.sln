@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35826.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simple-filter", "simple-filter.vcxproj", "{BF7CC225-50B0-409C-8908-CC407625ECC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Debug|ARM.ActiveCfg = Debug|ARM
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Debug|ARM.Build.0 = Debug|ARM
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Debug|ARM.Deploy.0 = Debug|ARM
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Debug|ARM64.Build.0 = Debug|ARM64
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Debug|x64.ActiveCfg = Debug|x64
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Debug|x64.Build.0 = Debug|x64
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Debug|x64.Deploy.0 = Debug|x64
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Debug|x86.ActiveCfg = Debug|Win32
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Debug|x86.Build.0 = Debug|Win32
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Debug|x86.Deploy.0 = Debug|Win32
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Release|ARM.ActiveCfg = Release|ARM
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Release|ARM.Build.0 = Release|ARM
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Release|ARM.Deploy.0 = Release|ARM
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Release|ARM64.ActiveCfg = Release|ARM64
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Release|ARM64.Build.0 = Release|ARM64
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Release|ARM64.Deploy.0 = Release|ARM64
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Release|x64.ActiveCfg = Release|x64
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Release|x64.Build.0 = Release|x64
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Release|x64.Deploy.0 = Release|x64
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Release|x86.ActiveCfg = Release|Win32
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Release|x86.Build.0 = Release|Win32
+		{BF7CC225-50B0-409C-8908-CC407625ECC8}.Release|x86.Deploy.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {821DFD0A-297F-4431-B17B-F71F16D26A7D}
+	EndGlobalSection
+EndGlobal
