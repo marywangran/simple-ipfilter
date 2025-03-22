@@ -14,9 +14,9 @@ ping 8.8.8.8
 ```
 ### simple-ipfilter-WINDOWS
 ```bash
-1. cd simple-ipfilter/simple-ipfilter-WINDOWS
+1. cd simple-ipfilter\simple-ipfilter-WINDOWS
 2. vs 20xx 打开 simple-filter.sln 并生成
-3. 命令行(非 powershell)：sc create simple-filter type= kernel binPath= %你的output 目录\simple-filter.sys
+3. 命令行(非 powershell)：sc create simple-filter type= kernel binPath= %你的output目录\simple-filter.sys
 4. 命令行(非 powershell)：sc start simple-filter
 5. ping 8.8.8.8
 
