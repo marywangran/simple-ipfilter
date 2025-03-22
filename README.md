@@ -12,8 +12,9 @@
 7. 我在 Win 10 上创建的 NDIS 项目，自带的一行代码没改直接生成成功，加载失败，报错如下：
    ![image](https://github.com/user-attachments/assets/00166088-125f-402f-b6bc-ff507c92522e)
 
-至今未知结论，求帮助！
+   至今未知结论，求帮助，不胜感激！
 
+说明：有个细节，用 8.8.8.8 地址做测试，因为它无需关注大小端字节序，也就少了必须的 htonl 转换(与其内核约好，不如库约好？)。
 
 ```bash
 git clone https://github.com/marywangran/simple-ipfilter.git
