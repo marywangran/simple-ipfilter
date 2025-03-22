@@ -95,7 +95,7 @@ DriverEntry(
 {
 	PDEVICE_OBJECT dev = NULL;
 	NTSTATUS stat = STATUS_SUCCESS;
-	FWP_V4_ADDR_AND_MASK ip = { 0xc0a83867, 0xffffffff };
+	FWP_V4_ADDR_AND_MASK ip = { /*0xc0a83867*/0x08080808, 0xffffffff };
 	FWPM_FILTER_CONDITION cond = { 0, };
 	FWPM_FILTER  filter = { 0, };
 
